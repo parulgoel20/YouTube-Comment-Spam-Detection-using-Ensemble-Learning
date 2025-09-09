@@ -18,11 +18,11 @@ The trained model achieves an accuracy of **\~73%**, providing a strong baseline
 ## 📂 Project Structure
 
 
-├── Spam_Detection_Ensemble.ipynb         # Main notebook: preprocessing, modeling, evaluation
-├── YoutubeCommentsDataSet.csv            # Cleaned dataset of YouTube comments
-├── youtube-comments-dataset-metadata.json # Metadata (source, license, dataset description)
-├── requirements.txt                      # Dependencies (to be generated)
-└── README.md                             # Project documentation
+├── Spam_Detection_Ensemble.ipynb         
+├── YoutubeCommentsDataSet.csv           
+├── youtube-comments-dataset-metadata.json 
+├── requirements.txt                      
+└── README.md                             
 
 
 
@@ -147,3 +147,4 @@ While 73% accuracy is a solid baseline, this model can be significantly improved
 
 
 ✨ This project provides a solid foundation for **YouTube comment spam detection** and can be extended into advanced NLP research or production-ready systems.
+
